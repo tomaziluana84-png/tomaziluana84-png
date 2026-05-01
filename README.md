@@ -18,5 +18,5 @@
 <div>  
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" height="40" />
 </div>
-<img src= "https://pin.it/5CRQTyoOC>\
+<img src= "https://br.pinterest.com/pin/1145321749003313097/">\
 
