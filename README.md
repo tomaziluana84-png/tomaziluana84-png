@@ -18,4 +18,5 @@
 <div>  
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" height="40" />
 </div>
-<img src= "https://i.pinimg.com/736x/23/80/c3/2380c3a056e0accfd6b9516c1b6badff.jpg"/>
+<img src= "https://pin.it/5CRQTyoOC>\
+
