@@ -8,8 +8,8 @@
 
 **🎯 interreses **  
 - taewkondo
-- karate
-- jiu-jitsu
+- ouvir musicas 
+- jogos
 - programaçao, informatica avançada
 
  
